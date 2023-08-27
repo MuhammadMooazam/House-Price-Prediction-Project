@@ -4,6 +4,7 @@
 
 Welcome to the House Price Prediction Project! This project utilizes Data Science and Machine Learning techniques to predict house prices based on various features.
 
+---
 
 ## About the Project
 
@@ -11,6 +12,7 @@ Are you curious about what drives house prices in your area? Wondering how diffe
 
 Through the magic of Machine Learning, we've developed models that can predict house prices with incredible precision. Our project allows you to explore, experiment, and gain insights into the intriguing world of real estate economics.
 
+---
 
 ## Features
 
@@ -26,6 +28,7 @@ Our project employs state-of-the-art machine learning algorithms, including Line
 ### 📊 Evaluation Metrics
 We measure model performance using a variety of metrics such as Root Mean Squared Error (RMSE), Standard Deviation etc.
 
+---
 
 ## Installation
 
@@ -34,4 +37,35 @@ Provide instructions on how to set up and run your project locally. Include any 
 ```bash
 # Clone the repository
 git clone https://github.com/MuhammadMooazam/House-Price-Prediction-Project.git
+```
 
+With the project now set up, you're just a few commands away from uncovering the secrets of real estate data.
+
+---
+
+## Contributing
+
+We invite you to be a part of our exciting project! To get started:-
+
+1) Fork the project.
+2) Create a new branch for your feature: git checkout -b feature-name
+3) Commit your changes: git commit -m 'Add some feature'
+4) Push to your fork: git push origin feature-name
+5) Create a pull request.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+
+---
+
+Got questions or suggestions? We'd love to hear from you! Connect with us, explore the data, and start predicting house prices today. Unearth the potential of your real estate investments with our House Price Prediction Project!
+
+Ready to predict the future of real estate? Let's get started!
+
+🏡 Happy predicting! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mooazam/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/SMMooazam)
